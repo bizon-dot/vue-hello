@@ -9,8 +9,8 @@
 let app = new Vue({
     el: "#root",
     data: {
-        title: "Hello VueJS"
+        title: "Hello Stallman",
+        url: "https://fossforce.com/wp-content/uploads/2017/05/Stallman-freedom-as-a-human-right.jpg"
+
     }
 })
-
-console.log("ok")
